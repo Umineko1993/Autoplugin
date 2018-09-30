@@ -132,7 +132,8 @@ INSTALLP_DESC_VFLUX =				"PSVitaのスクリーンフィルタープラグイン
 --ALL
 INSTALLP_DESC_VSHMENU =			"PSVitaゲームとHomebrewsのVSHメニューを表示するtaiHENプラグイン"
 INSTALLP_DESC_VITAGRAFIX =			"PSVitaゲームの解像度とFPS上限を変更出来るプラグイン"
-INSTALLP_DESC_OVERCLOCK =			"taiHenの為の単純なOverclockプラグイン"--Translates
+INSTALLP_DESC_OVERCLOCK =			"taiHenの為の単純なOverclockプラグイン"
+--Translates
 
 STRING_UNSAFE_MODE =						"このアプリケーションはUNSAFE MODEを有効にする必要があります！"
 STRING_PSVITA_RESTART =						"PSVitaを再起動します"
